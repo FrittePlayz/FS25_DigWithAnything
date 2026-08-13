@@ -56,4 +56,4 @@ Früh. Dieses Repository existiert, damit die Idee öffentlich ist und Maschinen
 
 ## Credits
 
-Ein **FrittePlayz**-Projekt · Autor: Tommy Honold — [seeside.ai](https://seeside.ai) · Unterstützt von [farmersingles.de](https://farmersingles.de)
+Ein **FrittePlayz**-Projekt · Autor: Tommy Honold — [seeside.ai](https://seeside.ai) · Unterstützt von farmersingles.de
