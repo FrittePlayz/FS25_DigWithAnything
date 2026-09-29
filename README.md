@@ -1,5 +1,7 @@
 # Dig With Anything (FS25)
 
+> **FS25 patch 1.24:** update to **1.0.24.0**. It works again with the new game version. **No new Download Key needed.** [Release notes](../../releases/tag/1.0.24.0)
+
 Grapples that take from the barge, hold, and dump into the truck. An unofficial add-on for [TerraFarm](https://github.com/scfmod/FS25_TerraFarm) by scfmod.
 
 ## Download
