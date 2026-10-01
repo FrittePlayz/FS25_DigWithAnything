@@ -22,6 +22,8 @@ This repository holds no mod files. The [releases](https://github.com/FrittePlay
 
 ## Requirements
 
+New to TerraFarm? Install guide: https://fsmodworks.com/en/guides/terrafarm
+
 TerraFarm by scfmod (GitHub only, keep the folder name `FS25_0_TerraFarm`). PC/Mac only, script mod. Multiplayer runs server-side and is tested. In-game texts in English, German, French, Spanish, Italian, Polish and Portuguese.
 
 ## Support
