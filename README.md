@@ -1,6 +1,6 @@
 # Dig With Anything (FS25)
 
-> **FS25 patch 1.24:** update to **1.0.24.0**. It works again with the new game version. **No new Download Key needed.** [Release notes](../../releases/tag/1.0.24.0)
+> **New in 1.0.25.0:** optional tool collision while digging, a clean log (no more "Unable to get type nil"), smarter roller detection. **No new Download Key needed.** [Release notes](../../releases/tag/1.0.25.0)
 
 Grapples that take from the barge, hold, and dump into the truck. An unofficial add-on for [TerraFarm](https://github.com/scfmod/FS25_TerraFarm) by scfmod.
 
@@ -17,6 +17,7 @@ This repository holds no mod files. The [releases](https://github.com/FrittePlay
 - Grapples take from the barge, hold, dump into the truck, and lose material when you slew too fast.
 - Automatic grapple detection reads a machine's i3dMappings, so most clamshell grapples work without hand-tuning.
 - Trucks and trailers without their own TerraFarm entry become TerraFarm-capable automatically. Rollers and compactors get a compactor profile.
+- Optional: tool collision while digging can be switched off, so buckets, blades and grabs dig in without bumping (since 1.0.25.0).
 - Every tool shows up on the equipment list with its own icon and gets an ESC page with a store image, manufacturer and mod name. Filters and a search box tell you what works with TerraFarm and who provides it.
 
 ## Requirements
